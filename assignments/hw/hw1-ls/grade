@@ -1,2 +1,12 @@
-/ 100
+115/ 100
+Last update Sat May 2 00:11:33 2015 -0700
+
+Error checking for syscalls
+file: [src/ls.cpp] -0
+
+test ls output
+.: 
+[38;5;46m[38;5;21m1 [0m  [38;5;46ma [0m  aa[0m  b [0m  c [0m  
++15: Extra - coloring works
+
 
